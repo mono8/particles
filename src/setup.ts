@@ -129,9 +129,8 @@ async function init() {
 
     await loadImages(images, (loadedImages: HTMLImageElement[]) => {
         imagesObj.forEach((element: any, index: number) => {
-            debugger;
             // @ts-ignore
-            element.file = loadedImages[index].src.match(/\/static.*(jpg|png)/gi)[0];
+            element.file = loadedImages[index].src;
             const img = loadedImages[index];
 
             canvas.width = img.naturalWidth;
