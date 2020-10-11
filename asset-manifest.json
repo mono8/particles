@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/particles/static/css/main.3dc6596e.chunk.css",
+    "main.js": "/particles/static/js/main.1d2a94f3.chunk.js",
+    "main.js.map": "/particles/static/js/main.1d2a94f3.chunk.js.map",
+    "runtime-main.js": "/particles/static/js/runtime-main.c2901b23.js",
+    "runtime-main.js.map": "/particles/static/js/runtime-main.c2901b23.js.map",
+    "static/js/2.5615c58e.chunk.js": "/particles/static/js/2.5615c58e.chunk.js",
+    "static/js/2.5615c58e.chunk.js.map": "/particles/static/js/2.5615c58e.chunk.js.map",
+    "index.html": "/particles/index.html",
+    "precache-manifest.3092853cc5c82a3f294a193ca6d0be7c.js": "/particles/precache-manifest.3092853cc5c82a3f294a193ca6d0be7c.js",
+    "service-worker.js": "/particles/service-worker.js",
+    "static/css/main.3dc6596e.chunk.css.map": "/particles/static/css/main.3dc6596e.chunk.css.map",
+    "static/js/2.5615c58e.chunk.js.LICENSE.txt": "/particles/static/js/2.5615c58e.chunk.js.LICENSE.txt",
+    "static/media/dali.jpg": "/particles/static/media/dali.401160e8.jpg",
+    "static/media/girl.jpg": "/particles/static/media/girl.f09750e2.jpg",
+    "static/media/lovers.png": "/particles/static/media/lovers.f0e66115.png",
+    "static/media/sonofman.png": "/particles/static/media/sonofman.8274ca14.png",
+    "static/media/vg.jpg": "/particles/static/media/vg.bd97b8cf.jpg",
+    "static/media/waves.jpg": "/particles/static/media/waves.dd06de76.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c2901b23.js",
+    "static/js/2.5615c58e.chunk.js",
+    "static/css/main.3dc6596e.chunk.css",
+    "static/js/main.1d2a94f3.chunk.js"
+  ]
+}
