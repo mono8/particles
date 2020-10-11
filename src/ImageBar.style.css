@@ -1,0 +1,15 @@
+.container {
+    position: absolute;
+    bottom: 0;
+    margin: 0 auto;
+    display: flex;
+    height: 100px;
+    width: 100%;
+    justify-content: center;
+}
+
+.item {
+    width: 70px;
+    height: 70px;
+    margin-left: 16px;
+}
